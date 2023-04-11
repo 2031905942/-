@@ -1,0 +1,108 @@
+{:blocks (
+{:block/content "**Load Your Documents 加载您的文件**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64300870-4a1f-4bc3-afea-6ef2c975b9c1"}
+:block/parent 
+{:block/uuid #uuid "64300870-4a1f-4bc3-afea-6ef2c975b9c1"}
+:block/properties 
+{}
+:block/uuid #uuid "64300990-1529-4180-8ad0-5c800d46db48"} 
+{:block/created-at 1680923035147
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64300990-1529-4180-8ad0-5c800d46db48"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [419.74951852937863 40.99997227211738]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fef23180-d53d-11ed-85a1-8d30f3f34d91"
+:noFill false
+:point [204.83227263821033 893.7619806578782]
+:parentId "64300870-4a1f-4bc3-afea-6ef2c975b9c1"
+:collapsedHeight 0
+:nonce 1680869777544}}
+:block/updated-at 1680923035147} 
+{:block/content "from langchain.document_loaders import TextLoader\nloader = TextLoader('../state_of_the_union.txt')"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64300990-1529-4180-8ad0-5c800d46db48"}
+:block/parent 
+{:block/uuid #uuid "64300990-1529-4180-8ad0-5c800d46db48"}
+:block/properties 
+{}
+:block/uuid #uuid "64300a4c-5d67-4a52-b2f7-692b5bfef95e"} 
+{:block/content "来到地球上健健康康的生活了22年，终于终于发生了一场不可思议的相遇，相遇是亿万分之一概率的奇迹，相遇之后又仿佛命中注定，我们给予了彼此一种从未发现的阐释，我们摧毁了对方对爱的想象的其他可能性。所以只要活得够久，好事总是会发生的，虽然活着本身已经是一件够好的事儿了。\n\n23岁终于开始和朋友们谈。谈爱遇见他之前，我从来不写日记，而开始记是因为不想忘记。我对时间的记忆从以1998年为起点的编年史，变成了以我们的相遇为分界线的断代史。时间开始了一见钟情。其实最难的是见，或者说你想要找到真正爱的、喜欢的一个人，最难的是找到他。前提是你要相信这个世界上存在着那样一个人，我们可能会觉得自己非常与众不同，但是人类其实没有那么不同，没有那么特殊，他肯定藏在世界上的某个地方，只要你去寻找，总有一天会找到的，至少你要有走出去的勇气。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64300990-1529-4180-8ad0-5c800d46db48"}
+:block/parent 
+{:block/uuid #uuid "64300870-4a1f-4bc3-afea-6ef2c975b9c1"}
+:block/properties 
+{}
+:block/uuid #uuid "643018af-ee31-4c7c-b487-b07d59407a58"} 
+{:block/created-at 1680923035148
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "643018af-ee31-4c7c-b487-b07d59407a58"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [545.0102063003696 414.1602117579438]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "022c10b0-d547-11ed-9290-f71efd03fd1e"
+:noFill false
+:point [198.39783873022594 451.18191748728896]
+:parentId "64300870-4a1f-4bc3-afea-6ef2c975b9c1"
+:collapsedHeight 0
+:nonce 1680873647862}}
+:block/updated-at 1680923035148} 
+{:block/content "file:///C:/Users/20319/AppData/Local/Logseq/app-0.9.1/resources/app/electron.html#/whiteboards"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "643018af-ee31-4c7c-b487-b07d59407a58"}
+:block/parent 
+{:block/uuid #uuid "64300870-4a1f-4bc3-afea-6ef2c975b9c1"}
+:block/uuid #uuid "6430d999-d1fd-46b0-859c-653d843b8b36"})
+:pages (
+{:block/uuid #uuid "64300870-4a1f-4bc3-afea-6ef2c975b9c1"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64300870-4a1f-4bc3-afea-6ef2c975b9c1"
+:name "生活"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("fef23180-d53d-11ed-85a1-8d30f3f34d91" "022c10b0-d547-11ed-9290-f71efd03fd1e")}}
+:block/updated-at 1680923035147
+:block/created-at 1680869488818
+:block/type "whiteboard"
+:block/name "生活"
+:block/original-name "生活"})}

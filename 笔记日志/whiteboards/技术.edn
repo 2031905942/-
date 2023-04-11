@@ -1,0 +1,97 @@
+{:blocks (
+{:block/content "LangChain\n构建端到端语言模型应用程序：\npip install langchain\npip install openai\nexport OPENAI_API_KEY=\"...\"\n首先需要导入 LLM 包装器：\nfrom langchain.llms import OpenAI\n用任何参数初始化包装器。我们希望输出更加随机，使用高温对其进行初始化：\nllm = OpenAI(temperature=0.9)\n调用它！\ntext = \"What would be a good company name ?\"\nprint(llm(text))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/parent 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/properties 
+{}
+:block/uuid #uuid "64301083-b209-4a3a-b6a1-760bcc04bec9"} 
+{:block/created-at 1680871857959
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64301083-b209-4a3a-b6a1-760bcc04bec9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing false
+:type "logseq-portal"
+:size [432 389]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "15cd7e60-d542-11ed-9290-f71efd03fd1e"
+:noFill false
+:point [73.5 141]
+:parentId "64301064-6cc3-44a3-a7e5-b9154f301fcd"
+:collapsedHeight 0
+:nonce 1680871533143}}
+:block/updated-at 1680871857959} 
+{:block/content "首先需要导入 LLM 包装器。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "e975d821-8d4f-4856-b6c0-806f66cbc143"}
+:block/parent 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/uuid #uuid "42128e99-bce4-4013-9777-f64086abca7f"} 
+{:block/content "```\nfrom langchain.llms import OpenAI\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "42128e99-bce4-4013-9777-f64086abca7f"}
+:block/parent 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/uuid #uuid "7c98019c-dc16-4564-8e63-f3766088abb4"} 
+{:block/content "首先需要导入 LLM 包装器。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "c0b7df67-522f-4ab8-977c-591aec3d5fa7"}
+:block/parent 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/uuid #uuid "e62d7ff0-1161-442a-b37b-0bb7508aa605"} 
+{:block/content "```\nfrom langchain.llms import OpenAI\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "e62d7ff0-1161-442a-b37b-0bb7508aa605"}
+:block/parent 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/uuid #uuid "e975d821-8d4f-4856-b6c0-806f66cbc143"} 
+{:block/content "首先需要导入 LLM 包装器。"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64301083-b209-4a3a-b6a1-760bcc04bec9"}
+:block/parent 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/uuid #uuid "20f8f92f-2810-4e78-bda2-e459c65364ac"} 
+{:block/content "```\nfrom langchain.llms import OpenAI\n```"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "20f8f92f-2810-4e78-bda2-e459c65364ac"}
+:block/parent 
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"}
+:block/uuid #uuid "c0b7df67-522f-4ab8-977c-591aec3d5fa7"})
+:pages (
+{:block/uuid #uuid "64301064-6cc3-44a3-a7e5-b9154f301fcd"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64301064-6cc3-44a3-a7e5-b9154f301fcd"
+:name "技术"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("15cd7e60-d542-11ed-9290-f71efd03fd1e")}}
+:block/updated-at 1680871857959
+:block/created-at 1680871524917
+:block/type "whiteboard"
+:block/name "技术"
+:block/original-name "技术"})}
